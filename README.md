@@ -1,5 +1,5 @@
 # TNSDC_Generative_AI
-Title: Fake News Prediction Model - Read Me
+Title: Fake News Prediction Model
 
 ---
 
